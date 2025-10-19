@@ -3,7 +3,7 @@
 This project is a simple MCP in Java 25 with Spring Boot 3.5.6, Spring AI MCP (1.1.0-M3) and WebFlux, connected to an H2 database via R2DBC.
 
 You can use it independently or with this other solution:
-https://github.com/dmarcosl/spring-ai-mcp-agent-demo
+https://github.com/dmarcosl/spring-ai-mcp-demo
 
 ---
 
